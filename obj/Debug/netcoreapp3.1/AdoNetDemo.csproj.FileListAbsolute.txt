@@ -1,0 +1,7 @@
+C:\Users\PAPER\source\repos\AdoNetDemo\obj\Debug\netcoreapp3.1\AdoNetDemo.csproj.AssemblyReference.cache
+C:\Users\PAPER\source\repos\AdoNetDemo\obj\Debug\netcoreapp3.1\AdoNetDemo.Form1.resources
+C:\Users\PAPER\source\repos\AdoNetDemo\obj\Debug\netcoreapp3.1\AdoNetDemo.csproj.GenerateResource.cache
+C:\Users\PAPER\source\repos\AdoNetDemo\obj\Debug\netcoreapp3.1\AdoNetDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PAPER\source\repos\AdoNetDemo\obj\Debug\netcoreapp3.1\AdoNetDemo.AssemblyInfoInputs.cache
+C:\Users\PAPER\source\repos\AdoNetDemo\obj\Debug\netcoreapp3.1\AdoNetDemo.AssemblyInfo.cs
+C:\Users\PAPER\source\repos\AdoNetDemo\obj\Debug\netcoreapp3.1\AdoNetDemo.csproj.CoreCompileInputs.cache
